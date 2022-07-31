@@ -5,17 +5,18 @@ const generateMarkdown = data => {
   ${data.discription}
  
   ## License:
-  [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)]
+  [![License](https://img.shields.io/badge/License-${data.license}-green.svg)]
+  ![badge](https://img.shields.io/badge/License-${data.license}-blue.svg)]
   
  
   ## Table of Contents
  
- <h1> _ [Installation](#installation)</h1>
-  <h1> _ [Usage](#usage)</h1>
-   _ [License](#license)
-  <h1> _ [Contribute](#contribute)</h1>
-  <h1> _ [Tests](#tests)<h1>
-   <h1>_[Questions](#questions)</h1> 
+  -[Installation](#installation)
+   -[Usage](#usage)
+   -[License](#license)
+   -[Contribute](#contribute)
+   -[Tests](#tests)
+  -[Questions](#questions) 
   
   
   ## Installation 

@@ -1,30 +1,39 @@
-# README creator 
-  ## License:
-  
-  ![Github licence](http://img.shields.io/badge/license-Apache-blue.svg)
-  ## Description 
-  undefined
+# make-a-README
 
-  ## Table of Contents
- _ [Installation](#installation)
-  _ [Usage](#usage)
-  _ [License](#license)
-  _ [Contribute](#contribute)
-  _ [Tests](#tests)
-  *_[Questions](#questions)
+  ## Description 
+  This project is a node.js application that uses a collection of questions to ask the user for input and then creates a README file for them based on there input
  
+  ## License:
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)]
+  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)]
+  
+ 
+  ## Table of Contents
+ 
+  -[Installation](#installation)
+   -[Usage](#usage)
+   -[License](#license)
+   -[Contribute](#contribute)
+   -[Tests](#tests)
+  -[Questions](#questions) 
+  
+  
   ## Installation 
-  undefined
+  This project needs nodeJs to run and it uses the npm inquirer package 
+ 
   ## Usage 
-  with node js and commond line 
+  This project will need the use of a command line/terminal to interact with inquirer question about the README creation 
 ## License
-Apache
+MIT
+
 ## Contribution
-Any way they can 
+Contribute to this project by understanding how it works and reading through README for project and testing it out
+
 ## Test
-run it on the command line
+run the command node index.js in the terminal and then answer the prompts to test tthe project 
+
 ## Questions
-tes28sara
+tes28sar@gmail.com
 
 
   
