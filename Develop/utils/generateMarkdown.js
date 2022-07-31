@@ -11,12 +11,12 @@ const generateMarkdown = data => {
  
   ## Table of Contents
  
-  -[Installation](#installation)
-   -[Usage](#usage)
+  - [Installation](#installation)
+   - [Usage](#usage)
    -[License](#license)
-   -[Contribute](#contribute)
-   -[Tests](#tests)
-  -[Questions](#questions) 
+   - [Contribute](#contribute)
+   - [Tests](#tests)
+  - [Questions](#questions) 
   
   
   ## Installation 
