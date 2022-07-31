@@ -9,12 +9,13 @@ const generateMarkdown = data => {
   
  
   ## Table of Contents
+  <p display = "block" >
   _ [Installation](#installation)
    _ [Usage](#usage)
    _ [License](#license)
    _ [Contribute](#contribute)
    _ [Tests](#tests)
-   *_[Questions](#questions)
+   *_[Questions](#questions) </p>
   
   
   ## Installation 
