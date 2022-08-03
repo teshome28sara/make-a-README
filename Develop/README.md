@@ -1,36 +1,36 @@
 # make-a-README
 
   ## Description 
-  This project is a node.js application that uses a collection of questions to ask the user for input and then creates a README file for them based on there input
+  This project is a nodeJs application that uses a collection of questions to ask the user for input and then creates a README file for them based on there input
  
   ## License:
-  [![License](https://img.shields.io/badge/License-MIT-green.svg)]
-  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)]
+  ![License](https://img.shields.io/badge/License--green.svg)]
+  ![badge](https://img.shields.io/badge/License--blue.svg)
   
  
   ## Table of Contents
  
-  -[Installation](#installation)
-   -[Usage](#usage)
+  - [Installation](#installation)
+   - [Usage](#usage)
    -[License](#license)
-   -[Contribute](#contribute)
-   -[Tests](#tests)
-  -[Questions](#questions) 
+   - [Contribute](#contribute)
+   - [Tests](#tests)
+  - [Questions](#questions) 
   
   
   ## Installation 
-  This project needs nodeJs to run and it uses the npm inquirer package 
+  This project needs the installation of nodeJs to run and uses the npm inquirer package.
  
   ## Usage 
-  This project will need the use of a command line/terminal to interact with inquirer question about the README creation 
+  This user will need to clone the repo of this project and will need to open the root folder in terminal and use the command node index.js to interact with inquirer questions to provide input to create the README.md file. This project also uses  the write to file system.
 ## License
-MIT
+
 
 ## Contribution
 Contribute to this project by understanding how it works and reading through README for project and testing it out
 
 ## Test
-run the command node index.js in the terminal and then answer the prompts to test tthe project 
+After cloning the repo for this project, run it in the command line/terminal by using the command node index.js to interact with questions to create README.md file.
 
 ## Questions
 tes28sar@gmail.com

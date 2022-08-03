@@ -192,7 +192,7 @@ const generateMarkdown = require("./utils/generateMarkdown")
              console.log(err);
              return
         }else{
-        console.log("success!")
+        console.log("you just created your readme!!")
         }
     })
 };
