@@ -1,11 +1,11 @@
 # make-a-README
 
   ## Description 
-  This project is a nodeJs application that uses a collection of questions to ask the user for input and then creates a README file for them based on there input
+  This is a node js application that takes in user input and then based on the input generates a readme
  
   ## License:
-  ![License](https://img.shields.io/badge/License-MIT-green.svg)]
-  ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![License](https://img.shields.io/badge/License--green.svg)
+  ![License](https://img.shields.io/badge/License--blue.svg)
   
  
   ## Table of Contents
@@ -19,21 +19,21 @@
   
   
   ## Installation 
-  This project needs the installation of nodeJs to run and uses the npm inquirer package.
+  nodeJs npm inquirer 
  
   ## Usage 
-  This user will need to clone the repo of this project and will need to open the root folder in terminal and use the command node index.js to interact with inquirer questions to provide input to create the README.md file. This project also uses the write to file system.
+  clone repo and open in vs code and run through terminal 
 ## License
-MIT
+
 
 ## Contribution
-Contribute to this project by understanding how it works and reading through README for project and testing it out
+read the diffferent sections and test out this project and see what you can add
 
 ## Test
-After cloning the repo for this project, run it in the command line/terminal by using the command node index.js to interact with questions to create README.md file.
+install all the right things and then clone repo and open in vs code and run in terminal 
 
 ## Questions
-tes28sar@gmail.com
+tes28sar@gmeail.com
 
 
   

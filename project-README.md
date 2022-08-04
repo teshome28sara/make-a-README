@@ -21,5 +21,7 @@ so that I can quickly create a professional README for a new project
 ✅When i answer the prompt asking me to enter my email for anyone with questions, then the information i provide is added to the README section of questions
 ✅ when I click on the links in the Table of Contents,  then I am taken to the corresponding section of the README
 
-   
+  [first-part video]( https://drive.google.com/file/d/1xA7ApuitZDg6r-2-ejwMmTKoimqepbtl/view)
+   [first-part video]( https://drive.google.com/file/d/1hTS0a4HLT915wuh7uDDeX7ApyoYhpvhO/view)
+ 
 

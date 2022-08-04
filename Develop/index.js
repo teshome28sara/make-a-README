@@ -1,3 +1,5 @@
+
+   
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer")
 const fs = require("fs")
@@ -6,9 +8,7 @@ const generateMarkdown = require("./utils/generateMarkdown")
 // console.log("please answer the following questions to generate a professional README for your project");
 
 // TODO: Create an array of questions for user input
-// const questions = () => {
-//     // using inquirer to prompt questions to user 
-//     return inquirer.prompt([
+
    
     const questions = () => {
         // using inquirer to prompt questions to user 
@@ -161,53 +161,40 @@ const generateMarkdown = require("./utils/generateMarkdown")
 
 
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data){
-//     fs.writeFile(fileName ,data, (err) => {
-//         if(err){
-//             console.log(error)
-//             return
-//         }else{
-//             console.log("success")
-//         }
-//     })
-// }
 
-// function init(){
-//     inquirer.prompt(questions)
-//     .then(function(userInput){
-//         console.log(userInput)
-//         writeToFile('README.md', generateMarkdown(userInput))
-
-//     })
-// }
-// init();
-
-    const writeFile = data => {
+const writeFile = data => {
     
-        fs.writeFile('README.md' , data, err => {
+    fs.writeFile('README.md' , data, err => {
 
-        
-        if(err){
-             console.log(err);
-             return
-        }else{
-        console.log("you just created your readme!!")
-        }
-    })
+    
+    if(err){
+         console.log(err);
+         return
+    }else{
+    console.log("you just created your readme!!")
+    }
+})
 };
 
 // TODO: Create a function to initialize app
 questions()
 // getting user input 
 .then(answers => {
-    return generateMarkdown(answers);
+return generateMarkdown(answers);
 })
 // // using data to display on page 
 .then(data => {
-    return writeFile(data);
+return writeFile(data);
 })
 // // catching errors 
 .catch(err => {
-    console.log(err)
+console.log(err)
 })
+
+
+
+
+
+
+
+   
