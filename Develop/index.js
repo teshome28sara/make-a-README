@@ -177,7 +177,7 @@ const writeFile = data => {
 
 // TODO: Create a function to initialize app
 questions()
-// getting user input 
+
 .then(answers => {
 return generateMarkdown(answers);
 })
