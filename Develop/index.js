@@ -4,8 +4,7 @@
 const inquirer = require("inquirer")
 const fs = require("fs")
 const generateMarkdown = require("./utils/generateMarkdown")
-// console.log("welcome to  README generator")
-// console.log("please answer the following questions to generate a professional README for your project");
+
 
 // TODO: Create an array of questions for user input
 
