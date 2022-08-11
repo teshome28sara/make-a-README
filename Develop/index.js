@@ -75,7 +75,7 @@ const generateMarkdown = require("./utils/generateMarkdown")
     },
     // Licensing
     {
-        type: "checkbox",
+        type: "list",
        
         message: "choose a license for your project",
         choices: ['Apache', 'GNU', 'MPL 2.0', 'MIT', 'none'],

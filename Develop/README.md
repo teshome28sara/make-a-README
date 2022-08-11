@@ -1,11 +1,11 @@
-# make-a-readme
+# make-a-README
 
   ## Description 
-  it is node js application that takes in user input and creates a readme based on the input
+  This is a nodeJs application that takes in user input and generates a README based on the input provided 
  
   ## License:
-  ![License](https://img.shields.io/badge/License--green.svg)
-  ![License](https://img.shields.io/badge/License--blue.svg)
+  ![License](https://img.shields.io/badge/License-GNU-green.svg)
+  ![Badge](https://img.shields.io/badge/License-GNU-blue.svg)
   
  
   ## Table of Contents
@@ -19,18 +19,18 @@
   
   
   ## Installation 
-  nodeJs npm packages inquirer 
+  This project needs node npm packages inquirer to run 
  
   ## Usage 
-  clone repo and run it in vs code and open the terminal and go through prompts 
+  clone repo open in vs code and run in terminal
 ## License
-
+GNU
 
 ## Contribution
-get used to the project by reading README and testing it out and see what you can add 
+test it out 
 
 ## Test
-clone repo and open in vs code and run it in the terminal 
+by cloneing repo and  run in terminal with the command node index.js
 
 ## Questions
 tes28sar@gmail.com
