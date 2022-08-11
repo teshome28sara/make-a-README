@@ -24,5 +24,7 @@ so that I can quickly create a professional README for a new project
   [first-part video]( https://drive.google.com/file/d/1xA7ApuitZDg6r-2-ejwMmTKoimqepbtl/view)
   
    [second-part video]( https://drive.google.com/file/d/1hTS0a4HLT915wuh7uDDeX7ApyoYhpvhO/view)
+
+   [third-part video](https://drive.google.com/file/d/13aX5uJ73c5QH_5IPpKyHSLS08l-cok3d/view)
  
 
